@@ -1,7 +1,7 @@
 # drupal8_test
 Contains the Drupal8 module for site configuration form alteration and rest api to get node details
 
-#Questionnaire Module
+#Custom API Module
 =======
 
 This module provides the functionality to alter site information form and also provide a rest API that 
